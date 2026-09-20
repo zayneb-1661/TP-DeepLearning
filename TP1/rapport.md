@@ -365,24 +365,11 @@ $$
 
 De même :
 
-$$
-\frac{\partial f}{\partial y}
-=
-\frac{\partial f}{\partial q}
-\frac{\partial q}{\partial y}
-=
--\frac{2}{4^2}
-=
--0.125
-$$
+$$ \frac{\partial f}{\partial y} = \frac{\partial f}{\partial q \frac{\partial q}{\partial y} = -\frac{2}{4^2} = -0.125 $$
 
 Et :
 
-$$
-\frac{\partial f}{\partial z}
-=
-1
-$$
+$$ \frac{\partial f}{\partial z} = 1 $$
 
 Ainsi :
 
