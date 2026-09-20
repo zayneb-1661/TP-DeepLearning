@@ -364,11 +364,14 @@ Donc :
 
 $$
 \frac{\partial f}{\partial x}
+$$
 =
+$$
 \frac{\partial f}{\partial q}
 \frac{\partial q}{\partial x}
+$$
 =
-1 \times \frac{1}{4}
+$$ 1 \times \frac{1}{4} $$
 =
 0.25
 $$
