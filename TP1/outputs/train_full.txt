@@ -1,0 +1,15 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Using device: cuda
+Epoch 01 | loss=2.0830 | acc=0.3334
+Epoch 02 | loss=2.1251 | acc=0.3586
+Epoch 03 | loss=2.1198 | acc=0.3682
+Epoch 04 | loss=2.0930 | acc=0.3819
+Epoch 05 | loss=2.0538 | acc=0.3897
+Epoch 06 | loss=2.0477 | acc=0.3943
+Epoch 07 | loss=2.0145 | acc=0.4041
+Epoch 08 | loss=1.9995 | acc=0.4099
+Epoch 09 | loss=1.9602 | acc=0.4211
+Epoch 10 | loss=1.9462 | acc=0.4248
+Test accuracy: 0.387
+Model saved to mlp_model.pth

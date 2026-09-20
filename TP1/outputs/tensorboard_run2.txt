@@ -1,0 +1,19 @@
+logdir: runs/MLP_lr0.001_bs32_20260918-132534
+Files already downloaded and verified
+Files already downloaded and verified
+Using device: cuda
+Epoch 00 | train_loss=1.6846 | val_loss=1.5960 | val_acc=0.438
+Epoch 01 | train_loss=1.4892 | val_loss=1.5219 | val_acc=0.473
+Epoch 02 | train_loss=1.4011 | val_loss=1.5412 | val_acc=0.468
+Epoch 03 | train_loss=1.3400 | val_loss=1.4764 | val_acc=0.488
+Epoch 04 | train_loss=1.2890 | val_loss=1.4637 | val_acc=0.501
+Epoch 05 | train_loss=1.2477 | val_loss=1.4758 | val_acc=0.496
+Epoch 06 | train_loss=1.2081 | val_loss=1.4663 | val_acc=0.502
+Epoch 07 | train_loss=1.1715 | val_loss=1.4687 | val_acc=0.502
+Epoch 08 | train_loss=1.1389 | val_loss=1.4673 | val_acc=0.502
+Epoch 09 | train_loss=1.1079 | val_loss=1.4619 | val_acc=0.516
+Training finished
+TensorBoard logs saved in: runs/MLP_lr0.001_bs32_20260918-132534
+Test loss: 1.4297
+Test accuracy: 0.5076
+Model saved: outputs/MLP_lr0.001_bs32_20260918-132534.pth

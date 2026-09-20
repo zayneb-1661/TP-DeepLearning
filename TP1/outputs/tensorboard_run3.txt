@@ -1,0 +1,19 @@
+logdir: runs/MLP_lr0.1_bs128_20260918-133047
+Files already downloaded and verified
+Files already downloaded and verified
+Using device: cuda
+Epoch 00 | train_loss=nan | val_loss=nan | val_acc=0.096
+Epoch 01 | train_loss=nan | val_loss=nan | val_acc=0.096
+Epoch 02 | train_loss=nan | val_loss=nan | val_acc=0.096
+Epoch 03 | train_loss=nan | val_loss=nan | val_acc=0.096
+Epoch 04 | train_loss=nan | val_loss=nan | val_acc=0.096
+Epoch 05 | train_loss=nan | val_loss=nan | val_acc=0.096
+Epoch 06 | train_loss=nan | val_loss=nan | val_acc=0.096
+Epoch 07 | train_loss=nan | val_loss=nan | val_acc=0.096
+Epoch 08 | train_loss=nan | val_loss=nan | val_acc=0.096
+Epoch 09 | train_loss=nan | val_loss=nan | val_acc=0.096
+Training finished
+TensorBoard logs saved in: runs/MLP_lr0.1_bs128_20260918-133047
+Test loss: nan
+Test accuracy: 0.1000
+Model saved: outputs/MLP_lr0.1_bs128_20260918-133047.pth

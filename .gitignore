@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environnements
+.venv/
+venv/
+
+# Dataset CIFAR-10
+TP1/data/
+
+# TensorBoard
+TP1/runs/
+
+# VS Code
+.vscode/
+TP1/data/
