@@ -338,21 +338,28 @@ $$ f=0.5+0=0.5 $$
 
 ### Gradients
 
+
 Les dérivées locales sont :
 
-$$
-\frac{\partial f}{\partial q}=1
+```math
+\frac{\partial f}{\partial q} = 1
+```
 
-\frac{\partial f}{\partial z}=1
+```math
+\frac{\partial f}{\partial z} = 1
+```
 
-\frac{\partial q}{\partial x}=\frac{1}{y}
+```math
+\frac{\partial q}{\partial x} = \frac{1}{y}
+```
 
-\frac{\partial q}{\partial y}=-\frac{x}{y^2}
-$$
+```math
+\frac{\partial q}{\partial y} = -\frac{x}{y^2}
+```
 
 Donc :
 
-$$
+```math
 \frac{\partial f}{\partial x}
 =
 \frac{\partial f}{\partial q}
@@ -361,19 +368,34 @@ $$
 1 \times \frac{1}{4}
 =
 0.25
-$$
+```
 
 De même :
 
-$$ \frac{\partial f}{\partial y} = \frac{\partial f}{\partial q \frac{\partial q}{\partial y} = -\frac{2}{4^2} = -0.125 $$
+```math
+\frac{\partial f}{\partial y}
+=
+\frac{\partial f}{\partial q}
+\frac{\partial q}{\partial y}
+=
+-\frac{2}{4^2}
+=
+-0.125
+```
 
 Et :
 
-$$ \frac{\partial f}{\partial z} = 1 $$
+```math
+\frac{\partial f}{\partial z}
+=
+1
+```
 
 Ainsi :
 
-$$ \nabla f = (0.25,\,-0.125,\,1) $$
+```math
+\nabla f = (0.25,\,-0.125,\,1)
+```
 
 ---
 
