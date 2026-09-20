@@ -318,9 +318,7 @@ $$
 
 puis :
 
-$$
-f=q+z
-$$
+$$ f=q+z $$
 
 Pour :
 
@@ -336,9 +334,7 @@ $$
 
 et :
 
-$$
-f=0.5+0=0.5
-$$
+$$ f=0.5+0=0.5 $$
 
 ### Gradients
 
@@ -346,17 +342,11 @@ Les dérivées locales sont :
 
 $$
 \frac{\partial f}{\partial q}=1
-$$
 
-$$
 \frac{\partial f}{\partial z}=1
-$$
 
-$$
 \frac{\partial q}{\partial x}=\frac{1}{y}
-$$
 
-$$
 \frac{\partial q}{\partial y}=-\frac{x}{y^2}
 $$
 
@@ -364,17 +354,16 @@ Donc :
 
 $$
 \frac{\partial f}{\partial x}
-$$
 =
-$$
 \frac{\partial f}{\partial q}
 \frac{\partial q}{\partial x}
-$$
 =
-$$ 1 \times \frac{1}{4} $$
+1 \times \frac{1}{4}
 =
 0.25
 $$
+
+De même :
 
 $$
 \frac{\partial f}{\partial y}
@@ -387,16 +376,20 @@ $$
 -0.125
 $$
 
-et :
+Et :
 
 $$
-\frac{\partial f}{\partial z}=1
+\frac{\partial f}{\partial z}
+=
+1
 $$
 
 Ainsi :
 
 $$
-\nabla f=(0.25,-0.125,1)
+\nabla f
+=
+(0.25,\,-0.125,\,1)
 $$
 
 ---
@@ -405,46 +398,27 @@ $$
 
 Avec un learning rate :
 
-$$
-\eta=1
-$$
+$$ \eta=1 $$
 
 la mise à jour est :
 
-$$
-x'=x-\eta\frac{\partial f}{\partial x}
-$$
+$$ x'=x-\eta\frac{\partial f}{\partial x} $$
 
-$$
-y'=y-\eta\frac{\partial f}{\partial y}
-$$
+$$ y'=y-\eta\frac{\partial f}{\partial y} $$
 
-$$
-z'=z-\eta\frac{\partial f}{\partial z}
-$$
+$$ z'=z-\eta\frac{\partial f}{\partial z} $$
 
 On obtient :
 
-$$
-x'=2-0.25=1.75
-$$
+$$ x'=2-0.25=1.75 $$
 
-$$
-y'=4-(-0.125)=4.125
-$$
+$$ y'=4-(-0.125)=4.125 $$
 
-$$
-z'=0-1=-1
-$$
+$$ z'=0-1=-1 $$
 
 La nouvelle valeur de la fonction est :
 
-$$
-f(x',y',z')
-=
-\frac{1.75}{4.125}-1
-\approx -0.5758
-$$
+$$ f(x',y',z') = \frac{1.75}{4.125}-1 \approx -0.5758 $$
 
 La fonction est passée de :
 
