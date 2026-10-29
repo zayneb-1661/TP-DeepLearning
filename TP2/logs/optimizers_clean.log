@@ -1,0 +1,138 @@
+Device : cuda
+Nombre de features : 16
+
+======================================
+Optimiseur : SGD
+======================================
+SGD - Epoch 1/30 - Loss: 0.6920
+SGD - Epoch 2/30 - Loss: 0.6832
+SGD - Epoch 3/30 - Loss: 0.6764
+SGD - Epoch 4/30 - Loss: 0.6701
+SGD - Epoch 5/30 - Loss: 0.6643
+SGD - Epoch 6/30 - Loss: 0.6588
+SGD - Epoch 7/30 - Loss: 0.6537
+SGD - Epoch 8/30 - Loss: 0.6492
+SGD - Epoch 9/30 - Loss: 0.6454
+SGD - Epoch 10/30 - Loss: 0.6421
+SGD - Epoch 11/30 - Loss: 0.6393
+SGD - Epoch 12/30 - Loss: 0.6369
+SGD - Epoch 13/30 - Loss: 0.6349
+SGD - Epoch 14/30 - Loss: 0.6333
+SGD - Epoch 15/30 - Loss: 0.6319
+SGD - Epoch 16/30 - Loss: 0.6307
+SGD - Epoch 17/30 - Loss: 0.6296
+SGD - Epoch 18/30 - Loss: 0.6288
+SGD - Epoch 19/30 - Loss: 0.6280
+SGD - Epoch 20/30 - Loss: 0.6273
+SGD - Epoch 21/30 - Loss: 0.6267
+SGD - Epoch 22/30 - Loss: 0.6262
+SGD - Epoch 23/30 - Loss: 0.6257
+SGD - Epoch 24/30 - Loss: 0.6252
+SGD - Epoch 25/30 - Loss: 0.6248
+SGD - Epoch 26/30 - Loss: 0.6244
+SGD - Epoch 27/30 - Loss: 0.6240
+SGD - Epoch 28/30 - Loss: 0.6237
+SGD - Epoch 29/30 - Loss: 0.6233
+SGD - Epoch 30/30 - Loss: 0.6230
+
+======================================
+Optimiseur : Momentum
+======================================
+Momentum - Epoch 1/30 - Loss: 0.6631
+Momentum - Epoch 2/30 - Loss: 0.6328
+Momentum - Epoch 3/30 - Loss: 0.6263
+Momentum - Epoch 4/30 - Loss: 0.6234
+Momentum - Epoch 5/30 - Loss: 0.6223
+Momentum - Epoch 6/30 - Loss: 0.6209
+Momentum - Epoch 7/30 - Loss: 0.6177
+Momentum - Epoch 8/30 - Loss: 0.6139
+Momentum - Epoch 9/30 - Loss: 0.6096
+Momentum - Epoch 10/30 - Loss: 0.6042
+Momentum - Epoch 11/30 - Loss: 0.5982
+Momentum - Epoch 12/30 - Loss: 0.5915
+Momentum - Epoch 13/30 - Loss: 0.5849
+Momentum - Epoch 14/30 - Loss: 0.5790
+Momentum - Epoch 15/30 - Loss: 0.5745
+Momentum - Epoch 16/30 - Loss: 0.5708
+Momentum - Epoch 17/30 - Loss: 0.5711
+Momentum - Epoch 18/30 - Loss: 0.5691
+Momentum - Epoch 19/30 - Loss: 0.5677
+Momentum - Epoch 20/30 - Loss: 0.5669
+Momentum - Epoch 21/30 - Loss: 0.5654
+Momentum - Epoch 22/30 - Loss: 0.5652
+Momentum - Epoch 23/30 - Loss: 0.5645
+Momentum - Epoch 24/30 - Loss: 0.5638
+Momentum - Epoch 25/30 - Loss: 0.5634
+Momentum - Epoch 26/30 - Loss: 0.5632
+Momentum - Epoch 27/30 - Loss: 0.5629
+Momentum - Epoch 28/30 - Loss: 0.5625
+Momentum - Epoch 29/30 - Loss: 0.5636
+Momentum - Epoch 30/30 - Loss: 0.5636
+
+======================================
+Optimiseur : RMSprop
+======================================
+RMSprop - Epoch 1/30 - Loss: 0.5951
+RMSprop - Epoch 2/30 - Loss: 0.5778
+RMSprop - Epoch 3/30 - Loss: 0.5739
+RMSprop - Epoch 4/30 - Loss: 0.5699
+RMSprop - Epoch 5/30 - Loss: 0.5663
+RMSprop - Epoch 6/30 - Loss: 0.5478
+RMSprop - Epoch 7/30 - Loss: 0.5468
+RMSprop - Epoch 8/30 - Loss: 0.5481
+RMSprop - Epoch 9/30 - Loss: 0.5439
+RMSprop - Epoch 10/30 - Loss: 0.5481
+RMSprop - Epoch 11/30 - Loss: 0.5449
+RMSprop - Epoch 12/30 - Loss: 0.5436
+RMSprop - Epoch 13/30 - Loss: 0.5438
+RMSprop - Epoch 14/30 - Loss: 0.5436
+RMSprop - Epoch 15/30 - Loss: 0.5428
+RMSprop - Epoch 16/30 - Loss: 0.5404
+RMSprop - Epoch 17/30 - Loss: 0.5403
+RMSprop - Epoch 18/30 - Loss: 0.5436
+RMSprop - Epoch 19/30 - Loss: 0.5408
+RMSprop - Epoch 20/30 - Loss: 0.5390
+RMSprop - Epoch 21/30 - Loss: 0.5379
+RMSprop - Epoch 22/30 - Loss: 0.5393
+RMSprop - Epoch 23/30 - Loss: 0.5419
+RMSprop - Epoch 24/30 - Loss: 0.5391
+RMSprop - Epoch 25/30 - Loss: 0.5422
+RMSprop - Epoch 26/30 - Loss: 0.5388
+RMSprop - Epoch 27/30 - Loss: 0.5411
+RMSprop - Epoch 28/30 - Loss: 0.5368
+RMSprop - Epoch 29/30 - Loss: 0.5382
+RMSprop - Epoch 30/30 - Loss: 0.5353
+
+======================================
+Optimiseur : Adam
+======================================
+Adam - Epoch 1/30 - Loss: 0.5941
+Adam - Epoch 2/30 - Loss: 0.5777
+Adam - Epoch 3/30 - Loss: 0.5737
+Adam - Epoch 4/30 - Loss: 0.5702
+Adam - Epoch 5/30 - Loss: 0.5680
+Adam - Epoch 6/30 - Loss: 0.5663
+Adam - Epoch 7/30 - Loss: 0.5493
+Adam - Epoch 8/30 - Loss: 0.5544
+Adam - Epoch 9/30 - Loss: 0.5451
+Adam - Epoch 10/30 - Loss: 0.5451
+Adam - Epoch 11/30 - Loss: 0.5461
+Adam - Epoch 12/30 - Loss: 0.5444
+Adam - Epoch 13/30 - Loss: 0.5442
+Adam - Epoch 14/30 - Loss: 0.5420
+Adam - Epoch 15/30 - Loss: 0.5451
+Adam - Epoch 16/30 - Loss: 0.5433
+Adam - Epoch 17/30 - Loss: 0.5394
+Adam - Epoch 18/30 - Loss: 0.5456
+Adam - Epoch 19/30 - Loss: 0.5456
+Adam - Epoch 20/30 - Loss: 0.5428
+Adam - Epoch 21/30 - Loss: 0.5376
+Adam - Epoch 22/30 - Loss: 0.5464
+Adam - Epoch 23/30 - Loss: 0.5381
+Adam - Epoch 24/30 - Loss: 0.5403
+Adam - Epoch 25/30 - Loss: 0.5383
+Adam - Epoch 26/30 - Loss: 0.5409
+Adam - Epoch 27/30 - Loss: 0.5374
+Adam - Epoch 28/30 - Loss: 0.5377
+Adam - Epoch 29/30 - Loss: 0.5391
+Adam - Epoch 30/30 - Loss: 0.5388
