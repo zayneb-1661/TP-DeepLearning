@@ -1,0 +1,39 @@
+
+========== ABC, T=0.2 ==========
+X:1
+T:Irish Reel
+M:4/4
+L:1/8
+K:D
+ A | d2 d2 d2 | d2 d2 d2 | A2 A2 B2 | A2 F2 A2 | d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | 
+ d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | 
+ d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | 
+ d2 d2 d2 | d2 d2 d2 | d2 d2 d2 | d2 
+
+Partition enregistree : generations/generation_best_lstm_sub10000_h512_lr0.005_clip1.0_20261029_104948/temperature_0_2.abc
+
+========== ABC, T=0.8 ==========
+X:1
+T:Irish Reel
+M:4/4
+L:1/8
+K:D
+ A3/2 F/ A3 A | d F G A B A | c B A G F E | F G A B c d | B A B c A3/2 G/ | A F D B, F D | 
+ E F G A B c | d B d B A E | A F E A A3/2 B/ | c A B G E c :: F F G E c d | c A F G E A | 
+ D F F G A B | B B D B, A, G | F3/2 E/ D D F E | D G B G E D | F E D F A F | 
+ E E E c B G | B/c/ d e e c B | A F D E
+
+Partition enregistree : generations/generation_best_lstm_sub10000_h512_lr0.005_clip1.0_20261029_104948/temperature_0_8.abc
+
+========== ABC, T=2.0 ==========
+X:1
+T:Irish Reel
+M:4/4
+L:1/8
+K:D
+ (=c/d/).c.B(AG) F2ga | f8F | =FdA>"A"=F4"Bm= ||"^(B
+b\)Tg" [fdf]4g3/2= |!9jDE=g]B f[GEe1-](3:!p8!-e! !term!c!!we3(vequutlee!f!we!dcB2-!wf+f!a (fC2cS/C)
+O[Bb6h!B) | GCB,C]2^DE F2vEDEY} FE!FRqEaz2 A,3 uBcbuMa!0!ce! .did e .a"_br-Kabelviturc][c-egu 4adbe | 
+ A | G2 d{e}{6=c5d'} B2{ed]3f/(g | fe'f')c'^
+
+Partition enregistree : generations/generation_best_lstm_sub10000_h512_lr0.005_clip1.0_20261029_104948/temperature_2_0.abc
