@@ -1,0 +1,52 @@
+Job : 54390
+Noeud : starfighter-slurm-node-03-1
+Thu Nov  5 09:58:24 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 595.84                 Driver Version: 595.84         CUDA Version: 13.2     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA L4                      Off |   00000000:06:10.0 Off |                    0 |
+| N/A   33C    P8             15W /   72W |       0MiB /  23034MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+Construction du vocabulaire...
+Mots uniques : 20324
+Device: cuda (NVIDIA L4)
+Images Train: 25426, Test: 6357
+Vocabulaire: 20326, Batch size: 32
+TensorBoard: runs/captioning_20261105_095836
+Checkpoint: checkpoints/best_captioning_20261105_095836.pth
+Epoch 01 - Prediction : a little girl in a blue shirt and a blue shirt and a blue shirt and a blue shirt
+Epoch 01 - Target     : A little girl has her arms around a little boy standing on a wooden bridge in the woods .
+Epoch 01/15 | Train Loss: 4.8507 | Val Loss: 4.0870 | LR: 0.001
+Epoch 02/15 | Train Loss: 3.7641 | Val Loss: 3.7623 | LR: 0.001
+Epoch 03/15 | Train Loss: 3.3733 | Val Loss: 3.6288 | LR: 0.001
+Epoch 04/15 | Train Loss: 3.0762 | Val Loss: 3.5859 | LR: 0.001
+Epoch 05/15 | Train Loss: 2.8057 | Val Loss: 3.5913 | LR: 0.0001
+Epoch 06/15 | Train Loss: 2.4224 | Val Loss: 3.5897 | LR: 0.0001
+Epoch 07/15 | Train Loss: 2.3532 | Val Loss: 3.5995 | LR: 0.0001
+Epoch 08/15 | Train Loss: 2.3085 | Val Loss: 3.6127 | LR: 0.0001
+Epoch 09/15 | Train Loss: 2.2685 | Val Loss: 3.6171 | LR: 0.0001
+Epoch 10 - Prediction : two girls in a forest , one in a white shirt , one in a white shirt , one
+Epoch 10 - Target     : A little girl has her arms around a little boy standing on a wooden bridge in the woods .
+Epoch 10/15 | Train Loss: 2.2306 | Val Loss: 3.6318 | LR: 1e-05
+Epoch 11/15 | Train Loss: 2.1783 | Val Loss: 3.6365 | LR: 1e-05
+Epoch 12/15 | Train Loss: 2.1731 | Val Loss: 3.6393 | LR: 1e-05
+Epoch 13/15 | Train Loss: 2.1689 | Val Loss: 3.6421 | LR: 1e-05
+Epoch 14/15 | Train Loss: 2.1649 | Val Loss: 3.6442 | LR: 1e-05
+Epoch 15 - Prediction : two girls in a white shirt and blue jeans , one in a white shirt , are standing in
+Epoch 15 - Target     : A little girl has her arms around a little boy standing on a wooden bridge in the woods .
+Epoch 15/15 | Train Loss: 2.1609 | Val Loss: 3.6451 | LR: 1e-06
+Meilleure validation : 3.5859
+Meilleur checkpoint : checkpoints/best_captioning_20261105_095836.pth

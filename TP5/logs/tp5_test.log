@@ -1,0 +1,12 @@
+Construction du vocabulaire...
+Mots uniques : 20324
+Device: cuda (NVIDIA L4)
+Images Train: 25426, Test: 6357
+Vocabulaire: 20326, Batch size: 4
+TensorBoard: runs/captioning_20261105_095316
+Checkpoint: checkpoints/best_captioning_20261105_095316.pth
+Epoch 01 - Prediction : a a a a a a a a a a a a a a a a a a a
+Epoch 01 - Target     : A little girl has her arms around a little boy standing on a wooden bridge in the woods .
+Epoch 01/1 | Train Loss: 9.8389 | Val Loss: 9.5981 | LR: 0.001
+Meilleure validation : 9.5981
+Meilleur checkpoint : checkpoints/best_captioning_20261105_095316.pth

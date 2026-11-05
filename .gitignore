@@ -15,3 +15,6 @@ TP1/runs/
 # VS Code
 .vscode/
 TP1/data/
+
+# TP5 - Model checkpoints
+TP5/checkpoints/
